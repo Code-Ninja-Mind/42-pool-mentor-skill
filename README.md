@@ -263,8 +263,8 @@ Credit to the original contributors of that repository.
 
 ## 📞 Support & Community
 
-- **Issues:** [GitHub Issues](https://github.com/YOUR_USERNAME/42-pool-mentor-skill/issues)
-- **Discussions:** [GitHub Discussions](https://github.com/YOUR_USERNAME/42-pool-mentor-skill/discussions)
+- **Issues:** [GitHub Issues](https://github.com/Code-Ninja-Mind/42-pool-mentor-skill/issues)
+- **Discussions:** [GitHub Discussions](https://github.com/Code-Ninja-Mind/42-pool-mentor-skill/discussions)
 - **Reddit:** Share feedback on [r/42Network](https://reddit.com/r/42Network)
 
 ---
